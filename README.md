@@ -31,7 +31,8 @@ Tools & Skills Used:
 - KPI Design
 - Business Intelligence Reporting
 
-Outcome: The dashboard enables:
+Outcome:-
+The dashboard enables:
 - Identification of high‑performing products and regions.
 - Monitoring of monthly sales trends.
 - Category‑level revenue analysis.
