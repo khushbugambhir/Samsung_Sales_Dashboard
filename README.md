@@ -9,7 +9,7 @@ Data Cleaning & Preparation:-
 - Corrected data types for accurate aggregation.
 - Created calculated columns and DAX measures for KPI computation.
 
-Key KPIs Developed:
+Key KPIs Developed:-
 - Total Revenue: 22.91M
 - Total Units Sold: 37K
 - Average Customer Rating: 3.73
@@ -17,13 +17,13 @@ Key KPIs Developed:
 
 KPIs were created using appropriate aggregation logic (SUM, AVERAGE, DISTINCTCOUNT) based on business requirements.
 
-Key Insights:
+Key Insights:-
 1. Top Performing Region*: Europe contributes the highest share of total sales, followed by Asia.
 2. Revenue Driver*: Galaxy S is the leading revenue‑generating category, significantly outperforming other product segments.
 3. Seasonal Trend*: Sales peak during mid‑year and Q4, indicating seasonal purchasing behavior.
 4. Customer Satisfaction*: An average rating of 3.73 suggests stable performance with opportunities for product and service improvement.
 
-Tools & Skills Used:
+Tools & Skills Used:-
 - Power BI
 - DAX
 - Data Modeling
